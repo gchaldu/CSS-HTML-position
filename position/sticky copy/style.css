@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  padding: 50px;
+  margin: 50px 0;
+  background-color: #f4f4f4;
+}
+
+.sticky-header {
+  position: sticky;
+  top: 0;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  margin: 0;
+  z-index: 10;
+}
